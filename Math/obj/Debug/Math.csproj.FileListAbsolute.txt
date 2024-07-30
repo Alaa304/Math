@@ -1,0 +1,10 @@
+E:\C#\Math\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+E:\C#\Math\Math\obj\Debug\Math.Form1.resources
+E:\C#\Math\Math\obj\Debug\Math.Properties.Resources.resources
+E:\C#\Math\Math\obj\Debug\Math.csproj.GenerateResource.cache
+E:\C#\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+E:\C#\Math\Math\bin\Debug\Math.exe.config
+E:\C#\Math\Math\bin\Debug\Math.exe
+E:\C#\Math\Math\bin\Debug\Math.pdb
+E:\C#\Math\Math\obj\Debug\Math.exe
+E:\C#\Math\Math\obj\Debug\Math.pdb
